@@ -1,42 +1,44 @@
-{
-  "titel": "Roggenmischbrot 70/30 mit Sauerteig und Übernachtgare",
-  "beschreibung": "Aromatisches Roggenmischbrot mit 70 % Roggenmehl 1150 und 30 % Ruchmehl. Mit 25 % Sauerteig, 10 g Honig, 1 % Frischhefe und optionalen Bäckerzusätzen. Der Teig wird über Nacht im Kühlschrank geführt und ergibt ca. 750 g Teiggewicht.",
-  "zutaten": [
-    "Sauerteig:",
-    "53 g Roggenmehl 1150",
-    "53 g Wasser",
-    "5-10 g Anstellgut",
-    "",
-    "Hauptteig:",
-    "106 g reifer Sauerteig",
-    "243 g Roggenmehl 1150",
-    "127 g Ruchmehl",
-    "251 g Wasser",
-    "8,5 g Salz",
-    "4 g Frischhefe",
-    "10 g Honig",
-    "",
-    "Bäckerzusätze optional:",
-    "4 g Weizengluten",
-    "2 g inaktives Backmalz oder Aromamalz",
-    "1 g Lecithin optional"
-  ],
-  "schritte": [
-    "Für den Sauerteig Roggenmehl, Wasser und Anstellgut verrühren.",
-    "Sauerteig 10-14 Stunden bei Raumtemperatur reifen lassen.",
-    "Für den Hauptteig Sauerteig, Wasser, Honig und Hefe verrühren.",
-    "Roggenmehl, Ruchmehl, Salz und optionale Bäckerzusätze dazugeben.",
-    "Den Teig 6-8 Minuten langsam kneten oder gründlich mischen.",
-    "Teig abgedeckt 30 Minuten bei Raumtemperatur ruhen lassen.",
-    "Mit nassen Händen rund oder länglich formen.",
-    "In ein bemehltes Gärkörbchen oder in eine kleine Kastenform legen.",
-    "Abgedeckt 8-12 Stunden über Nacht in den Kühlschrank stellen.",
-    "Backofen mit Backstein, Blech oder Gusstopf auf 250 °C vorheizen.",
-    "Teigling direkt aus dem Kühlschrank einschneiden oder leicht stippen.",
-    "Mit Dampf 10 Minuten bei 250 °C backen.",
-    "Danach auf 210 °C reduzieren und weitere 25-30 Minuten fertig backen.",
-    "Brot gut auskühlen lassen, bevor es angeschnitten wird."
-  ],
-  "notiz": "Teiggewicht ca. 750 g. Ziel-Kerntemperatur 96-98 °C. Bei Übernachtgare kein aktives Backmalz verwenden, da der Teig sonst zu weich werden kann. Roggenteig bleibt klebrig und wird nicht elastisch wie Weizenteig.",
-  "isFavorit": false
-}
+[
+  {
+    "titel": "Roggenmischbrot 70/30 mit Sauerteig und Übernachtgare",
+    "beschreibung": "Aromatisches Roggenmischbrot mit 70 % Roggenmehl 1150 und 30 % Ruchmehl. Mit 25 % Sauerteig, 10 g Honig, 1 % Frischhefe und optionalen Bäckerzusätzen. Der Teig wird über Nacht im Kühlschrank geführt und ergibt ca. 750 g Teiggewicht.",
+    "zutaten": [
+      "Sauerteig:",
+      "53 g Roggenmehl 1150",
+      "53 g Wasser",
+      "5-10 g Anstellgut",
+      "",
+      "Hauptteig:",
+      "106 g reifer Sauerteig",
+      "243 g Roggenmehl 1150",
+      "127 g Ruchmehl",
+      "251 g Wasser",
+      "8,5 g Salz",
+      "4 g Frischhefe",
+      "10 g Honig",
+      "",
+      "Bäckerzusätze optional:",
+      "4 g Weizengluten",
+      "2 g inaktives Backmalz oder Aromamalz",
+      "1 g Lecithin optional"
+    ],
+    "schritte": [
+      "Für den Sauerteig Roggenmehl, Wasser und Anstellgut verrühren.",
+      "Sauerteig 10-14 Stunden bei Raumtemperatur reifen lassen.",
+      "Für den Hauptteig Sauerteig, Wasser, Honig und Hefe verrühren.",
+      "Roggenmehl, Ruchmehl, Salz und optionale Bäckerzusätze dazugeben.",
+      "Den Teig 6-8 Minuten langsam kneten oder gründlich mischen.",
+      "Teig abgedeckt 30 Minuten bei Raumtemperatur ruhen lassen.",
+      "Mit nassen Händen rund oder länglich formen.",
+      "In ein bemehltes Gärkörbchen oder in eine kleine Kastenform legen.",
+      "Abgedeckt 8-12 Stunden über Nacht in den Kühlschrank stellen.",
+      "Backofen mit Backstein, Blech oder Gusstopf auf 250 °C vorheizen.",
+      "Teigling direkt aus dem Kühlschrank einschneiden oder leicht stippen.",
+      "Mit Dampf 10 Minuten bei 250 °C backen.",
+      "Danach auf 210 °C reduzieren und weitere 25-30 Minuten fertig backen.",
+      "Brot gut auskühlen lassen, bevor es angeschnitten wird."
+    ],
+    "notiz": "Teiggewicht ca. 750 g. Ziel-Kerntemperatur 96-98 °C. Bei Übernachtgare kein aktives Backmalz verwenden, da der Teig sonst zu weich werden kann. Roggenteig bleibt klebrig und wird nicht elastisch wie Weizenteig.",
+    "isFavorit": false
+  }
+]

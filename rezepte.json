@@ -1,53 +1,54 @@
- [ 
-{
-  "titel": "Dinkel-Roggen-Mischbrot mit Sauerteig und Übernachtgare",
-  "beschreibung": "Saftiges Dinkel-Roggen-Mischbrot mit 70 % Dinkelmehl und 30 % Roggenmehl. Mit 20 % Sauerteig, 1 % Frischhefe, 10 g Honig, Weizenquellmehl und optionalen Bäckerzusätzen. Der Teig wird über Nacht im Kühlschrank geführt und ergibt ca. 800 g Teiggewicht.",
-  "zutaten": [
-    "Sauerteig:",
-    "91 g Roggenmehl 1150",
-    "91 g Wasser",
-    "5-10 g Anstellgut",
-    "",
-    "Hauptteig:",
-    "182 g reifer Sauerteig",
-    "312 g Dinkelmehl 630 oder 1050",
-    "46 g Roggenmehl 1150",
-    "229 g Wasser",
-    "8 g Weizenquellmehl",
-    "9 g Salz",
-    "4,5 g Frischhefe",
-    "10 g Honig",
-    "",
-    "Bäckerzusätze optional:",
-    "4 g Weizengluten",
-    "2 g Lecithin",
-    "2 g Dextrose oder Backmalz"
-  ],
-  "schritte": [
-    "Sauerteig aus Roggenmehl, Wasser und Anstellgut verrühren und 10-12 Stunden bei Raumtemperatur reifen lassen.",
-    "Reifen Sauerteig mit Wasser, Honig und Hefe verrühren.",
-    "Dinkelmehl, Roggenmehl, Weizenquellmehl und optionale Bäckerzusätze zugeben.",
-    "Alles kurz vermischen, dann Salz zugeben.",
-    "Den Teig 5-7 Minuten langsam kneten. Dinkelteig nicht zu stark auskneten.",
-    "Den Teig 30-45 Minuten abgedeckt ruhen lassen.",
-    "Den Teig rund oder länglich formen.",
-    "In eine gefettete Backform oder in ein bemehltes Gärkörbchen legen.",
-    "Abgedeckt über Nacht 10-14 Stunden im Kühlschrank gehen lassen.",
-    "Am nächsten Tag den Ofen auf 240 °C vorheizen.",
-    "Brot einschneiden und mit Dampf oder im Gusstopf backen.",
-    "10 Minuten bei 240 °C backen.",
-    "Danach auf 200 °C reduzieren und weitere 35-40 Minuten backen.",
-    "Brot vollständig auskühlen lassen, bevor es angeschnitten wird."
-  ],
-  "notiz": "Teiggewicht ca. 800 g. Mischungsverhältnis: 70 % Dinkel und 30 % Roggen. Die 1 % Hefe sorgt für eine sichere Übernachtgare. Weizenquellmehl verbessert Saftigkeit und Frischhaltung.",
-  "backplan": [
-    "Abends: Sauerteig ansetzen.",
-    "Am nächsten Abend: Hauptteig herstellen, ruhen lassen und formen.",
-    "Über Nacht: 10-14 Stunden Kühlschrankgare.",
-    "Morgens: Direkt aus dem Kühlschrank backen."
-  ],
-  "hydration": 70,
-  "salz": 2,
-  "hefe": 1
-}
- ]
+[
+  {
+    "titel": "Dinkel-Roggen-Mischbrot mit Sauerteig, Brühstück und Übernachtgare",
+    "beschreibung": "Saftiges Dinkel-Roggen-Mischbrot mit 70 % Dinkelmehl und 30 % Roggenmehl. Mit 20 % Sauerteig, 10 % Brühstück, 1 % Frischhefe, 10 g Honig und optionalen Bäckerzusätzen. Der Teig wird über Nacht im Kühlschrank geführt und ergibt ca. 800 g Teiggewicht.",
+    "zutaten": [
+      "Sauerteig:",
+      "90 g Roggenmehl 1150",
+      "90 g Wasser",
+      "5-10 g Anstellgut",
+      "",
+      "Brühstück:",
+      "45 g Dinkelmehl 630 oder 1050",
+      "90 g kochendes Wasser",
+      "",
+      "Hauptteig:",
+      "180 g reifer Sauerteig",
+      "135 g Brühstück",
+      "271 g Dinkelmehl 630 oder 1050",
+      "46 g Roggenmehl 1150",
+      "136 g Wasser",
+      "9 g Salz",
+      "4,5 g Frischhefe",
+      "10 g Honig",
+      "",
+      "Bäckerzusätze optional:",
+      "4 g Weizengluten",
+      "2 g Lecithin",
+      "2 g Dextrose oder Backmalz"
+    ],
+    "schritte": [
+      "Für den Sauerteig Roggenmehl, Wasser und Anstellgut verrühren und 10-12 Stunden bei Raumtemperatur reifen lassen.",
+      "Für das Brühstück 45 g Dinkelmehl mit 90 g kochendem Wasser verrühren.",
+      "Brühstück abdecken und vollständig abkühlen lassen. Es kann ebenfalls über Nacht im Kühlschrank stehen.",
+      "Reifen Sauerteig, Brühstück, Wasser, Honig und Hefe in eine Schüssel geben und verrühren.",
+      "Dinkelmehl, Roggenmehl und optionale Bäckerzusätze zugeben.",
+      "Alles kurz vermischen, dann Salz zugeben.",
+      "Den Teig 5-7 Minuten langsam kneten. Dinkelteig nicht zu stark auskneten.",
+      "Den Teig 30-45 Minuten abgedeckt ruhen lassen.",
+      "Den Teig rund oder länglich formen.",
+      "In eine gefettete Backform oder in ein bemehltes Gärkörbchen legen.",
+      "Abgedeckt über Nacht 10-14 Stunden im Kühlschrank gehen lassen.",
+      "Am nächsten Tag den Ofen auf 240 °C vorheizen.",
+      "Brot einschneiden und mit Dampf oder im Gusstopf backen.",
+      "10 Minuten bei 240 °C backen.",
+      "Danach auf 200 °C reduzieren und weitere 35-40 Minuten backen.",
+      "Brot vollständig auskühlen lassen, bevor es angeschnitten wird."
+    ],
+    "notiz": "Teiggewicht ca. 800 g. Mischungsverhältnis: 70 % Dinkel und 30 % Roggen. Das Brühstück beträgt 10 % der Gesamtmehlmenge und verbessert Saftigkeit und Frischhaltung. Die 1 % Hefe sorgt für eine sichere Übernachtgare. Dinkelteig nur schonend kneten, da er empfindlicher ist als Weizenteig.\n\nBackplan:\nAbends: Sauerteig und Brühstück ansetzen.\nAm nächsten Abend: Hauptteig herstellen, ruhen lassen und formen.\nÜber Nacht: 10-14 Stunden Kühlschrankgare.\nMorgens: Direkt aus dem Kühlschrank backen.",
+    "isFavorit": false,
+    "hydration": 70,
+    "salzProzent": 2,
+    "hefeProzent": 1
+  }
+]

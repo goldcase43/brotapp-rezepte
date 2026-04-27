@@ -1,1 +1,36 @@
-
+{
+  "titel": "Roggenmischbrot 60/40 mit Sauerteig und Übernachtgare",
+  "beschreibung": "Aromatisches Roggenmischbrot mit 60 % Roggenmehl 1150 und 40 % Ruchmehl. Mit 25 % Sauerteig, 15 g Honig und Bäckerzusätzen. Die Übernachtgare sorgt für mehr Aroma, bessere Bekömmlichkeit und eine saftige Krume.",
+  "zutaten": [
+    "Gesamtteiggewicht: ca. 800 g",
+    "Mehl gesamt: ca. 436 g",
+    "Wasser gesamt: ca. 327 g",
+    "Hydration / TA: ca. 175",
+    "Sauerteiganteil: 25 %",
+    "109 g aktiver Sauerteig TA 200",
+    "207 g Roggenmehl 1150 für den Hauptteig",
+    "174 g Ruchmehl",
+    "272 g Wasser",
+    "9 g Salz",
+    "15 g Honig",
+    "9 g Weizengluten",
+    "2 g Lecithin",
+    "2 g Dextrose oder Traubenzucker",
+    "Optional: 2 g Frischhefe"
+  ],
+  "schritte": [
+    "Aktiven Sauerteig TA 200 verwenden. Falls der Sauerteig frisch angesetzt wird: Roggenmehl 1150, Wasser und etwas Anstellgut mischen und 8 bis 12 Stunden reifen lassen.",
+    "Sauerteig, Roggenmehl, Ruchmehl, Wasser, Honig, Salz und Bäckerzusätze in eine Schüssel geben.",
+    "Den Teig 5 bis 7 Minuten langsam mischen oder kneten. Der Teig bleibt durch den Roggenanteil weich und leicht klebrig.",
+    "Den Teig abgedeckt 45 bis 60 Minuten bei Raumtemperatur ruhen lassen.",
+    "Den Teig mit leicht nassen Händen oder einer Teigkarte rund oder länglich formen. Danach in ein bemehltes Gärkörbchen oder in eine kleine Kastenform legen.",
+    "Den Teigling abgedeckt 10 bis 14 Stunden im Kühlschrank reifen lassen.",
+    "Backofen auf 250 °C vorheizen. Backstein, Backblech oder Gusstopf mit aufheizen.",
+    "Das Brot direkt aus dem Kühlschrank einschneiden und in den heißen Ofen geben. 10 Minuten bei 250 °C mit Dampf backen. Danach auf 210 °C senken und weitere 30 bis 35 Minuten fertig backen.",
+    "Das Brot mindestens 2 Stunden auskühlen lassen. Roggenmischbrot erst nach dem vollständigen Auskühlen anschneiden."
+  ],
+  "notiz": "Der Teig ist durch den hohen Roggenanteil klebriger als ein Weizenteig. Nicht zu viel zusätzliches Mehl einarbeiten. Mit nassen Händen oder einer Teigkarte lässt er sich besser formen. Für eine sichere Lockerung können optional 2 g Frischhefe verwendet werden.",
+  "hydration": 75,
+  "salz": 2,
+  "hefe": 0
+}

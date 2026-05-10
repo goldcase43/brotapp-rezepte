@@ -1,7 +1,7 @@
 [
   {
     "titel": "Weizenmischbrot mit Ruchmehl, Vorteig und Brühstück – 800 g",
-    "beschreibung": "Aromatisches Weizenmischbrot mit 60 % Weizenmehl 812 und 40 % Ruchmehl.",
+    "beschreibung": "Aromatisches Weizenmischbrot mit 60 % Weizenmehl 812 und 40 % Ruchmehl. Mit Sauerteig, Vorteig, Brühstück und Honig.",
     "kategorie": "Mischbrot",
     "zutaten": [
       "Sauerteig:",
@@ -9,28 +9,46 @@
       "46 g Wasser",
       "5 g Anstellgut",
       "",
-      "Backtag Hauptteig:",
+      "Vorteig:",
+      "100 g Weizenmehl 812",
+      "100 g Wasser",
+      "1 g frische Hefe",
+      "",
+      "Brühstück:",
+      "46 g Ruchmehl",
+      "92 g Wasser",
+      "",
+      "Hauptteig:",
       "130 g Weizenmehl 812",
       "138 g Ruchmehl",
       "47 g Wasser",
       "9 g Salz",
-      "4 g frische Hefe"
+      "4 g frische Hefe",
+      "20 g Honig"
     ],
     "schritte": [
-      "Sauerteig herstellen und reifen lassen.",
-      "Hauptteig herstellen.",
-      "Teig ruhen lassen.",
-      "Brot formen.",
-      "Brot backen."
+      "Sauerteig ansetzen und 8 bis 12 Stunden reifen lassen.",
+      "Vorteig ansetzen und 10 bis 12 Stunden reifen lassen.",
+      "Brühstück herstellen und abkühlen lassen.",
+      "Alle Zutaten zum Hauptteig geben.",
+      "Teig 8 bis 10 Minuten kneten.",
+      "Teig 75 bis 90 Minuten ruhen lassen.",
+      "Teig formen.",
+      "45 bis 60 Minuten Stückgare.",
+      "Bei 240 °C mit Dampf einschießen.",
+      "Nach 10 Minuten auf 210 °C reduzieren und fertig backen."
     ],
     "backplan": [
       "Vortag 20:00 Uhr: Sauerteig ansetzen.",
-      "Vortag 20:15 Uhr: Brühstück herstellen.",
+      "Vortag 20:15 Uhr: Vorteig ansetzen.",
+      "Vortag 20:30 Uhr: Brühstück herstellen.",
       "Backtag 08:00 Uhr: Hauptteig kneten.",
-      "Backtag 09:30 Uhr: Formen.",
-      "Backtag 10:30 Uhr: Backen."
+      "Backtag 08:45 Uhr: Dehnen und falten.",
+      "Backtag 09:30 Uhr: Teig formen.",
+      "Backtag 10:15 Uhr: Ofen vorheizen.",
+      "Backtag 10:45 Uhr: Brot backen."
     ],
-    "notiz": "Backplan nachträglich ergänzt.",
+    "notiz": "Teiggewicht ca. 800 g. Hydration ca. 62 %. Keine Übernachtgare des Hauptteigs.",
     "isFavorit": false,
     "bildUri": "",
     "hydration": 62.0,

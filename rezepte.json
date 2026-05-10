@@ -1,7 +1,40 @@
-"backplan": [
-  "Vortag 20:00 Uhr: Sauerteig ansetzen.",
-  "Vortag 20:15 Uhr: Brühstück herstellen.",
-  "Backtag 08:00 Uhr: Hauptteig kneten.",
-  "Backtag 09:30 Uhr: Formen.",
-  "Backtag 10:30 Uhr: Backen."
+[
+  {
+    "titel": "Weizenmischbrot mit Ruchmehl, Vorteig und Brühstück – 800 g",
+    "beschreibung": "Aromatisches Weizenmischbrot mit 60 % Weizenmehl 812 und 40 % Ruchmehl.",
+    "kategorie": "Mischbrot",
+    "zutaten": [
+      "Sauerteig:",
+      "46 g Weizenmehl 812",
+      "46 g Wasser",
+      "5 g Anstellgut",
+      "",
+      "Backtag Hauptteig:",
+      "130 g Weizenmehl 812",
+      "138 g Ruchmehl",
+      "47 g Wasser",
+      "9 g Salz",
+      "4 g frische Hefe"
+    ],
+    "schritte": [
+      "Sauerteig herstellen und reifen lassen.",
+      "Hauptteig herstellen.",
+      "Teig ruhen lassen.",
+      "Brot formen.",
+      "Brot backen."
+    ],
+    "backplan": [
+      "Vortag 20:00 Uhr: Sauerteig ansetzen.",
+      "Vortag 20:15 Uhr: Brühstück herstellen.",
+      "Backtag 08:00 Uhr: Hauptteig kneten.",
+      "Backtag 09:30 Uhr: Formen.",
+      "Backtag 10:30 Uhr: Backen."
+    ],
+    "notiz": "Backplan nachträglich ergänzt.",
+    "isFavorit": false,
+    "bildUri": "",
+    "hydration": 62.0,
+    "salzProzent": 2.0,
+    "hefeProzent": 1.0
+  }
 ]

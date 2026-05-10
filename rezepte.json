@@ -1,52 +1,7 @@
-[
-  {
-    "titel": "Weizenbrot mit Ruchmehl, Vorteig, Brühstück und Bäckerzusätzen",
-    "beschreibung": "Aromatisches Weizenbrot mit 70% Weizenmehl 812 und 30% Ruchmehl. Das Brot wird mit Poolish-Vorteig, Brühstück, Weizenquellmehl, Honig und Bäckerzusätzen wie Lecithin, Ascorbinsäure und Dextrose hergestellt. Es kann mit Übernachtgare oder alternativ ohne Übernachtgare gebacken werden. Ergibt ca. 1000 g Teig.",
-    "notiz": "Teiggewicht ca. 1000 g. Hydration ca. 66%. Mehl gesamt ca. 580 g. Weizenmehl 812 70%, Ruchmehl 30%. Mit Poolish-Vorteig, 10% Brühstück, Weizenquellmehl, Dextrose, Lecithin, Ascorbinsäure und optional Backmalz. Ascorbinsäure sehr sparsam dosieren: ca. 0,05 g oder eine winzige Messerspitze. Für Übernachtgare 3,7 g Frischhefe verwenden. Ohne Übernachtgare 8 g Frischhefe verwenden.",
-    "isFavorit": false,
-    "zutaten": [
-      "Vorteig / Poolish:",
-      "122 g Weizenmehl 812",
-      "52 g Ruchmehl",
-      "174 g Wasser",
-      "0,3 g Frischhefe",
-      "",
-      "Brühstück:",
-      "58 g Ruchmehl",
-      "116 g kochendes Wasser",
-      "",
-      "Hauptteig:",
-      "gesamter Vorteig",
-      "gesamtes Brühstück",
-      "276 g Weizenmehl 812",
-      "60 g Ruchmehl",
-      "95 g Wasser",
-      "12 g Salz",
-      "15 g Honig",
-      "3,7 g Frischhefe bei Übernachtgare",
-      "8 g Frischhefe ohne Übernachtgare",
-      "",
-      "Bäckerzusätze:",
-      "12 g Weizenquellmehl",
-      "3 g Dextrose",
-      "2 g Lecithin",
-      "0,05 g Ascorbinsäure",
-      "2 g Backmalz optional"
-    ],
-    "schritte": [
-      "Vorteig aus Weizenmehl 812, Ruchmehl, Wasser und Hefe verrühren und 10–14 Stunden bei Raumtemperatur reifen lassen.",
-      "Für das Brühstück 58 g Ruchmehl mit 116 g kochendem Wasser verrühren, abdecken und vollständig abkühlen lassen.",
-      "Alle Zutaten für den Hauptteig zusammen mit Vorteig, Brühstück und Bäckerzusätzen in die Knetschüssel geben.",
-      "Teig 6–8 Minuten langsam und danach 3–5 Minuten schneller kneten, bis er elastisch und geschmeidig ist.",
-      "Variante mit Übernachtgare: Teig 60 Minuten bei Raumtemperatur ruhen lassen. Nach 30 Minuten einmal dehnen und falten.",
-      "Teig rund oder länglich formen, in ein bemehltes Gärkörbchen legen und 10–14 Stunden im Kühlschrank reifen lassen.",
-      "Brot direkt aus dem Kühlschrank backen.",
-      "Variante ohne Übernachtgare: Die Frischhefe im Hauptteig auf 8 g erhöhen. Teig 90 Minuten bei Raumtemperatur ruhen lassen und nach 45 Minuten einmal dehnen und falten.",
-      "Danach Brot formen und 45–75 Minuten Stückgare geben, bis der Teigling sichtbar aufgegangen ist.",
-      "Backofen mit Topf, Backstein oder Backstahl auf 250 °C vorheizen.",
-      "Brot 10 Minuten bei 250 °C mit Dampf anbacken.",
-      "Danach Temperatur auf 210–220 °C senken und weitere 30–35 Minuten fertig backen.",
-      "Brot vollständig auskühlen lassen, bevor es angeschnitten wird."
-    ]
-  }
+"backplan": [
+  "Vortag 20:00 Uhr: Sauerteig ansetzen.",
+  "Vortag 20:15 Uhr: Brühstück herstellen.",
+  "Backtag 08:00 Uhr: Hauptteig kneten.",
+  "Backtag 09:30 Uhr: Formen.",
+  "Backtag 10:30 Uhr: Backen."
 ]
